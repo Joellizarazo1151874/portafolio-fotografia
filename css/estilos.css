@@ -104,7 +104,7 @@ background-color: var(--bs-gray-200);
 }
 
 .f1 {
-  height: 39%;
+  height: 100%;
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -128,7 +128,7 @@ background-color: var(--bs-gray-200);
 }
   
 .h1 {
-  height: 300px;
+  height: 500px;
   width: 32%;
   overflow: hidden;
   position: relative;
@@ -140,7 +140,7 @@ background-color: var(--bs-gray-200);
 }
 
 .i1 {
-  height: 300px;
+  height: 500px;
   width: 32%;
   overflow: hidden;
   position: relative;
@@ -152,7 +152,7 @@ background-color: var(--bs-gray-200);
 }
 
 .j1 {
-  height: 300px;
+  height: 500px;
   width: 32%;
   overflow: hidden;
   position: relative;
@@ -175,7 +175,8 @@ background-color: var(--bs-gray-200);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 49%;height: 700px;
+  width: 49%;
+  height: 700px;
 }
 
 .contenedor2 {
@@ -643,7 +644,7 @@ background-color: var(--bs-gray-200);
 .a {
     height: 300px;
     width: 100%;
-    background-image: url(../img/a.jpg);
+    background-image: url(../img/pareja.jpeg);
     background-size: cover;    
     transform: scale(1);
     overflow: hidden;  
@@ -655,7 +656,7 @@ background-color: var(--bs-gray-200);
 .b {
     height: 300px;
     width: 100%;
-    background-image: url(../img/b.jpg);
+    background-image: url(../img/pareja4.jpeg);
     background-size: cover;    
     transform: scale(1);
     overflow: hidden;  
@@ -679,7 +680,7 @@ background-color: var(--bs-gray-200);
 .d {
   height: 100%;
   width: 100%;
-    background-image: url(../img/d.jpg);
+    background-image: url(../img/comida.jpeg);
     background-size: cover;    
     transform: scale(1);
     overflow: hidden;  
@@ -691,7 +692,7 @@ background-color: var(--bs-gray-200);
 .e {
   height: 100%;
   width: 100%;
-  background-image: url(../img/e.jpg);
+  background-image: url(../img/comida4.jpeg);
     background-size: cover;    
     transform: scale(1);
     overflow: hidden;  
@@ -703,7 +704,7 @@ background-color: var(--bs-gray-200);
 .f {
   height: 100%;
   width: 100%;
-  background-image: url(../img/f.jpg);
+  background-image: url(../img/comida2.jpeg);
     background-size: cover;    
     transform: scale(1);
     overflow: hidden;  
@@ -725,9 +726,9 @@ background-color: var(--bs-gray-200);
 }
 
 .h {
- height: 300px;
+ height: 500px;
  width: 100%;
- background-image: url(../img/h.jpg);
+ background-image: url(../img/fotopersonal.jpeg);
     background-size: cover;    
     transform: scale(1);
     overflow: hidden;  
@@ -737,9 +738,9 @@ background-color: var(--bs-gray-200);
 }
 
 .i {
- height: 300px;
+ height: 500px;
  width: 100%;
- background-image: url(../img/i.jpg);
+ background-image: url(../img/cumpleaños.jpeg);
     background-size: cover;    
     transform: scale(1);
     overflow: hidden;  
@@ -750,9 +751,9 @@ background-color: var(--bs-gray-200);
 
 
 .j {
- height: 300px;
+ height: 500px;
  width: 100%;
- background-image: url(../img/j.jpg);
+ background-image: url(../img/i.jpg);
     background-size: cover;    
     transform: scale(1);
     overflow: hidden;  
